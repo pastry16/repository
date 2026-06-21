@@ -14,11 +14,11 @@ list3 = list()
 
 for j in range(inp):
  
-  if list1[j] < 0
-  list3.append(list1[j])
+  if list1[j] < 0:
+    list3.append(list1[j])
   
   else: 
-  list2.append(list1[j])
+    list2.append(list1[j])
 
 print("The list with positive elements:", list2) 
 print("The list with negative elements:", list3)
