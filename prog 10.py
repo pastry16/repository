@@ -42,7 +42,7 @@ elif (inp == 4):
   print ("All entries in the contact")
   for a in dic:
     print ( a , "\t\t" , dic[a])
-    print ("\n\n\n")
+  print ("\n\n\n")
 
 elif (inp == 5):
   name = input("Enter the name of friend to search:")
@@ -55,7 +55,7 @@ elif (inp == 6):
   print("Name \t\t\t Contact number")
   for i in sorted(dic.keys()):
     print ( i, "\t\t\t" , dic[i])
-    print ("\n\n")
+  print ("\n\n")
 
 elif (inp == 7):
   break
