@@ -15,7 +15,7 @@ inp = int(input("Enter your choice (1-7):"))
 
 if (inp == 1): 
   name = input ("Enter your friend's name:")
-  phonenumber = input("Enter your friend's contact number:").
+  phonenumber = input("Enter your friend's contact number:")
   dic[name] = phonenumber
   print("Contact Added \n\n")
 
