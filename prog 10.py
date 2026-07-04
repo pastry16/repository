@@ -58,7 +58,7 @@ elif (inp == 6):
     print ("\n\n")
 
 elif (inp == 7):
-break
+  break
 else:
-print("Invalid choice. Please try again \n")
+  print("Invalid choice. Please try again \n")
 
