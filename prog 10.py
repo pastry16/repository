@@ -1,4 +1,6 @@
 # program to store information of your friends
+# note: "\n" and "\t" are sequences where n is newline and t is tab, for indentation. 
+# number of times these are used, number of new lines or tabs will be entered.
 
 dic = {}
 
