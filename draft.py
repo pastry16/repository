@@ -4,7 +4,7 @@ l=list()
 
 i= int(input("How many elements do you want to add in the list?"))
 
-for i in range (a):
+for a in range (i):
   a = int(input("Enter the elements"))
   
   if (a < 10):
